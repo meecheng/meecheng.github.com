@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Meecheng]]></title>
+  <link href="http://meecheng.github.com/atom.xml" rel="self"/>
+  <link href="http://meecheng.github.com/"/>
+  <updated>2013-03-25T13:59:11+08:00</updated>
+  <id>http://meecheng.github.com/</id>
+  <author>
+    <name><![CDATA[meecheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[HTML5 API classList]]></title>
+    <link href="http://meecheng.github.com/blog/2013/03/25/classlist/"/>
+    <updated>2013-03-25T13:51:00+08:00</updated>
+    <id>http://meecheng.github.com/blog/2013/03/25/classlist</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[徽章秀]]></title>
+    <link href="http://meecheng.github.com/blog/2013/02/21/hui-zhang-xiu/"/>
+    <updated>2013-02-21T12:32:00+08:00</updated>
+    <id>http://meecheng.github.com/blog/2013/02/21/hui-zhang-xiu</id>
+    <content type="html"><![CDATA[<p>美团2013年会暨成立三周年庆典——三生有幸
+<img src="http://meecheng.github.com/images/IMG_4467.JPG"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://meecheng.github.com/blog/2013/02/20/hello/"/>
+    <updated>2013-02-20T17:06:00+08:00</updated>
+    <id>http://meecheng.github.com/blog/2013/02/20/hello</id>
+    <content type="html"><![CDATA[<p>Hello, world!</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">arr1</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="nx">arrayLength</span><span class="p">);</span>
+</span><span class='line'><span class="kd">var</span> <span class="nx">arr2</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="nx">element0</span><span class="p">,</span> <span class="nx">element1</span><span class="p">,</span> <span class="p">...,</span> <span class="nx">elementN</span><span class="p">);</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<blockquote><p>Last night I lay in bed looking up at the stars in the sky and I thought to myself, where the heck is the ceiling.</p></blockquote>
+
+]]></content>
+  </entry>
+  
+</feed>
