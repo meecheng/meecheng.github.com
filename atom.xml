@@ -4,7 +4,7 @@
   <title><![CDATA[Meecheng]]></title>
   <link href="http://meecheng.github.com/atom.xml" rel="self"/>
   <link href="http://meecheng.github.com/"/>
-  <updated>2013-03-25T14:51:29+08:00</updated>
+  <updated>2013-03-25T14:55:31+08:00</updated>
   <id>http://meecheng.github.com/</id>
   <author>
     <name><![CDATA[meecheng]]></name>
@@ -51,7 +51,7 @@
 <p>翻看《javascript 高级程序设计（第三版）》527页提到的HTML5的一个新API classList，可以获取一个html元素的class属性返回一个对象。书中提到有个has()方法，经实测这个方法根本不存在，而是contains();</p>
 
 
-<p>以下是classList的定义</p>
+<h3>Element classList</h3>
 
 
 
@@ -75,7 +75,15 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>Can I Use classList ? <a href="http://caniuse.com/classlist" target="_blank">Click Here</a></p>
+
+
+<h3>Can I use it now ?</h3>
+
+
+<p><a href="http://caniuse.com/classlist" target="_blank">Click Here</a></p>
+
+
+
 ]]></content>
   </entry>
   
