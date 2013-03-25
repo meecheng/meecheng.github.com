@@ -4,7 +4,7 @@
   <title><![CDATA[Meecheng]]></title>
   <link href="http://meecheng.github.com/atom.xml" rel="self"/>
   <link href="http://meecheng.github.com/"/>
-  <updated>2013-03-25T13:59:11+08:00</updated>
+  <updated>2013-03-25T14:07:18+08:00</updated>
   <id>http://meecheng.github.com/</id>
   <author>
     <name><![CDATA[meecheng]]></name>
@@ -18,7 +18,28 @@
     <link href="http://meecheng.github.com/blog/2013/03/25/classlist/"/>
     <updated>2013-03-25T13:51:00+08:00</updated>
     <id>http://meecheng.github.com/blog/2013/03/25/classlist</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>翻看《javascript 高级程序设计（第三版）》提到的HTML5的一个新API classList，可以获取一个html元素的class属性返回一个数组。
+书中提到有个has方法，经实测这个方法根本不存在，而是contains();</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>{
+</span><span class='line'>        length: {number}, /* # of class on this element */
+</span><span class='line'>        add: function() { [native code] },
+</span><span class='line'>        contains: function() { [native code] },
+</span><span class='line'>        item: function() { [native code] }, /* by index */
+</span><span class='line'>        remove: function() { [native code] },
+</span><span class='line'>        toggle: function() { [native code] }
+</span><span class='line'>    }</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
