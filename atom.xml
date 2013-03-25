@@ -4,7 +4,7 @@
   <title><![CDATA[Meecheng]]></title>
   <link href="http://meecheng.github.com/atom.xml" rel="self"/>
   <link href="http://meecheng.github.com/"/>
-  <updated>2013-03-25T14:09:39+08:00</updated>
+  <updated>2013-03-25T14:15:11+08:00</updated>
   <id>http://meecheng.github.com/</id>
   <author>
     <name><![CDATA[meecheng]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Use Octopress on Github]]></title>
+    <link href="http://meecheng.github.com/blog/2013/03/25/use-octopress-on-github/"/>
+    <updated>2013-03-25T14:13:00+08:00</updated>
+    <id>http://meecheng.github.com/blog/2013/03/25/use-octopress-on-github</id>
+    <content type="html"><![CDATA[<h3>安装git</h3>
+
+
+<p>balalala</p>
+
+<h3>安装octpress</h3>
+
+
+<p>balabala</p>
+
+<h3>配置</h3>
+
+
+<p>balabala</p>
+
+<h3>Enjoy it now</h3>
+
+
+<p>balabala</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HTML5 API classList]]></title>
