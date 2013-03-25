@@ -4,7 +4,7 @@
   <title><![CDATA[Meecheng]]></title>
   <link href="http://meecheng.github.com/atom.xml" rel="self"/>
   <link href="http://meecheng.github.com/"/>
-  <updated>2013-03-25T14:29:43+08:00</updated>
+  <updated>2013-03-25T14:51:29+08:00</updated>
   <id>http://meecheng.github.com/</id>
   <author>
     <name><![CDATA[meecheng]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Use Octopress on Github]]></title>
-    <link href="http://meecheng.github.com/blog/2013/03/25/use-octopress-on-github/"/>
+    <link href="http://meecheng.github.com/blog/use-octopress-on-github/"/>
     <updated>2013-03-25T14:13:00+08:00</updated>
-    <id>http://meecheng.github.com/blog/2013/03/25/use-octopress-on-github</id>
+    <id>http://meecheng.github.com/blog/use-octopress-on-github</id>
     <content type="html"><![CDATA[<h3>安装git</h3>
 
 
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[HTML5 API classList]]></title>
-    <link href="http://meecheng.github.com/blog/2013/03/25/classlist/"/>
+    <link href="http://meecheng.github.com/blog/classlist/"/>
     <updated>2013-03-25T13:51:00+08:00</updated>
-    <id>http://meecheng.github.com/blog/2013/03/25/classlist</id>
+    <id>http://meecheng.github.com/blog/classlist</id>
     <content type="html"><![CDATA[<p>测试ocptpress 在github pages上的用法</p>
 
 
@@ -81,9 +81,9 @@
   
   <entry>
     <title type="html"><![CDATA[徽章秀]]></title>
-    <link href="http://meecheng.github.com/blog/2013/02/21/hui-zhang-xiu/"/>
+    <link href="http://meecheng.github.com/blog/hui-zhang-xiu/"/>
     <updated>2013-02-21T12:32:00+08:00</updated>
-    <id>http://meecheng.github.com/blog/2013/02/21/hui-zhang-xiu</id>
+    <id>http://meecheng.github.com/blog/hui-zhang-xiu</id>
     <content type="html"><![CDATA[<p>美团2013年会暨成立三周年庆典——三生有幸
 <img src="http://meecheng.github.com/images/IMG_4467.JPG"></p>
 ]]></content>
@@ -91,9 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://meecheng.github.com/blog/2013/02/20/hello/"/>
+    <link href="http://meecheng.github.com/blog/hello/"/>
     <updated>2013-02-20T17:06:00+08:00</updated>
-    <id>http://meecheng.github.com/blog/2013/02/20/hello</id>
+    <id>http://meecheng.github.com/blog/hello</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
 <figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>

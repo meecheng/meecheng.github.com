@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://meecheng.github.com/blog/2013/02/20/hello/</loc>
+        <loc>http://meecheng.github.com/blog/hello/</loc>
         <lastmod>2013-02-20T18:06:44+08:00</lastmod>
     </url>
     <url>
-        <loc>http://meecheng.github.com/blog/2013/02/21/hui-zhang-xiu/</loc>
+        <loc>http://meecheng.github.com/blog/hui-zhang-xiu/</loc>
         <lastmod>2013-02-21T12:49:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://meecheng.github.com/blog/2013/03/25/classlist/</loc>
+        <loc>http://meecheng.github.com/blog/classlist/</loc>
         <lastmod>2013-03-25T14:22:04+08:00</lastmod>
     </url>
     <url>
-        <loc>http://meecheng.github.com/blog/2013/03/25/use-octopress-on-github/</loc>
+        <loc>http://meecheng.github.com/blog/use-octopress-on-github/</loc>
         <lastmod>2013-03-25T14:15:06+08:00</lastmod>
     </url>
     <url>
